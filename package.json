@@ -1,0 +1,25 @@
+{
+  "name": "gsap",
+  "version": "1.0.0",
+  "description": "This is gsap animation made purely by me.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HanzlaCoding/Gsap-.git"
+  },
+  "keywords": [
+    "gsap",
+    "animation",
+    "cool",
+    "animations"
+  ],
+  "author": "Hanzla Shahid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HanzlaCoding/Gsap-/issues"
+  },
+  "homepage": "https://github.com/HanzlaCoding/Gsap-#readme"
+}
